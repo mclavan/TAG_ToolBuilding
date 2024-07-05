@@ -6,10 +6,10 @@ mec_basicTools.py
 
 How To Run:
 
-import mec_basicTools
+import mec_chunk_proxy.py
 import importlib
-importlib.reload(mec_basicTools)
-mec_basicTools.gui()
+importlib.reload(mec_chunk_proxy.py)
+mec_chunk_proxy.py.gui()
 
 '''
 
